@@ -1,0 +1,17 @@
+{
+  "name": "module_2_assgn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "prompt-sync": "^4.2.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
